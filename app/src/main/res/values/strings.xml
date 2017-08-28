@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Color Select</string>
+    <string name="title">Выберете цвет</string>
+    <string name="result">Результат</string>
+    <string name="color_attrib">Определение цвета</string>
+
+    <string-array name="color_selection">
+        <item>красный</item>
+        <item>оранжевый</item>
+        <item>желтый</item>
+        <item>зеленый</item>
+        <item>голубой</item>
+        <item>синий</item>
+        <item>фиолетовый</item>
+    </string-array>
+</resources>
